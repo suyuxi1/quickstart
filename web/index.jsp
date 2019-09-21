@@ -8,11 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Java Web起步</title>
+    <title>首页</title>
 </head>
 <body>
-Hello,开始学习Java Web
-web 开发
-222222
+<h2>首页</h2>
 </body>
 </html>
